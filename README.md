@@ -1,2 +1,2 @@
 # graphql-erlang
-A poc for arweave
+A poc for arweave by Abhishek
